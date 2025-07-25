@@ -1,2 +1,6 @@
-# minhwa-AI_Model
-AI image providence
+# minhwa-AI_Model (Python)
+
+# Frontend (Rest_API)
+
+# Backend (Java)
+
